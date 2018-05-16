@@ -1,0 +1,14 @@
+Carmotetraviridae
+#ff0000
+Flaviviridae
+#00ff00
+Luteoviridae
+#0000ff
+Tombusviridae
+#00ffff
+environmental samples
+#ff00ff
+unclassified ssRNA positive-strand viruses
+#000000
+Carmotetraviridae
+#ffff00

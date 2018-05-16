@@ -1,0 +1,1 @@
+@c++ main.cpp -std=c++11 -o3 -static -static-libgcc -static-libstdc++ -o main.exe
