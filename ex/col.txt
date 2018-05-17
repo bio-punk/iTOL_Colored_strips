@@ -10,5 +10,9 @@ Picornavirales
 #ff00ff
 Potyviridae
 #ffff00
+Fusariviridae
+#f0f0f0
+unclassified ssRNA viruses
+#000000
 unclassified ssRNA positive-strand viruses
-#ffffff
+#0f0f0f
