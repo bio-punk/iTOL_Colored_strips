@@ -1,0 +1,9 @@
+Astroviridae	#0000ff
+Caliciviridae	#00ff00
+Nidovirales	#ff0000
+Nodaviridae	#00ffff
+Picornavirales	#ff00ff
+Potyviridae	#ffff00
+Fusariviridae	#f0f0f0
+unclassified ssRNA viruses	#000000
+unclassified ssRNA positive-strand viruses	#000000

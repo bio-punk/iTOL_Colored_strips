@@ -1,0 +1,16 @@
+vertebrates
+#FF34B3
+invertebrates
+#FF6347
+vertebrates, human
+#FF7256
+plants
+#00EE76	
+vertebrates, invertebrates
+#FF8247
+environment
+#000000
+algae
+#00CDCD
+fungi
+#0000ff
