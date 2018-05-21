@@ -1,0 +1,9 @@
+#name group
+plants	plant
+vertebrates_human	human
+vertebrates	vertebrates
+invertebrates	invertebrate
+vertebrates_invertebrates	vertebrate_invertebrate
+algae	Algae
+environment	unknown
+fungi	Fungi

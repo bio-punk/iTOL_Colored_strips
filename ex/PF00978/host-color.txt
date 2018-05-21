@@ -1,0 +1,18 @@
+fungi
+#0000ff
+invertebrates
+#ee0000
+invertebrates, plants
+#eeff00
+invertebrates, vertebrates, human
+#FF7256
+plants
+#00ee00
+vertebrates
+#FFAEB9
+vertebrates, human
+#FF6347
+vertebrates, invertebrates
+#ffae00
+vertebrates, invertebrates, human
+#FFE1FF

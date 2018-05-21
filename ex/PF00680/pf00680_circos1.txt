@@ -1,0 +1,10 @@
+name	plants	vertebrates_human	vertebrates	invertebrates	vertebrates_invertebrates	algae	environment	fungi
+Caliciviridae	14	1	20	0	0	0	0	0
+Potyviridae	146	0	0	0	0	0	0	0
+Picornavirales	67	11	114	70	0	6	8	0
+Nidovirales	6	2	43	1	0	0	0	0
+Astroviridae	0	2	38	2	0	0	0	0
+Nodaviridae	0	0	1	5	1	0	0	0
+unclassified_ssRNA_positive_strand_viruses	0	0	1	7	0	0	0	1
+Fusariviridae	0	0	0	0	0	0	0	7
+unclassified_ssRNA_viruses	0	0	3	0	0	1	0	0

@@ -1,0 +1,16 @@
+name	fungi	plants	invertebrates	vertebrates	human
+Alphatetraviridae	0	0	3	0	0
+Astroviridae	0	0	0	5	0
+Benyviridae	0	3	0	0	0
+Blunervirus	0	1	0	0	0
+Bromoviridae	0	35	0	0	0
+Cilevirus	0	1	0	0	0
+Closteroviridae	0	40	0	0	0
+Hepeviridae	0	0	0	4	3
+Higrevirus	0	1	0	0	0
+Idaeovirus	0	3	0	0	0
+Nodaviridae	0	0	1	4	0
+Togaviridae	0	2	22	22	11
+Tymovirales	2	188	28	0	0
+unclassified_ssRNA_ps_viruses	1	0	7	0	0
+Virgaviridae	0	52	0	0	0

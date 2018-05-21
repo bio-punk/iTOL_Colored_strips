@@ -1,0 +1,6 @@
+#name group
+fungi	Fungi
+plants	Plant
+invertebrates	Invertebrates
+vertebrates	Vertebrates
+human	Homo_Sapiens
