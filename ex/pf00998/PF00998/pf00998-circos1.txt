@@ -1,0 +1,6 @@
+name	plants	vertebrates	invertebrates	fungi	human
+Tombusviridae	68	0	0	0	0
+Flaviviridae	7	18	2	0	9
+Luteoviridae	11	0	0	0	0
+unclassified_ssRNA_ps_viruses	2	1	3	1	0
+Carmotetraviridae	0	0	1	0	0

@@ -1,0 +1,7 @@
+plants	#00ff00
+vertebrates	#ff0000
+vertebrates, human	#ffff00
+invertebrates	#f0f000
+unknown	#000000
+environment	#000000
+fungi	#0000ff

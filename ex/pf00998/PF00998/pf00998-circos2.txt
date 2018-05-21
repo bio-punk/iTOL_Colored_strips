@@ -1,0 +1,6 @@
+#name	group
+plants	Plant
+vertebrates	Vertebrates
+invertebrates	Invertebrates
+fungi	Fungi
+human	Human
