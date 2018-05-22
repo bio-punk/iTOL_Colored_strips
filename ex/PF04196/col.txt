@@ -1,0 +1,16 @@
+vertebrates, invertebrates, human
+#aabbcc
+vertebrates, human
+#00ff00
+invertebrates
+#ff00ff
+invertebrates, plants
+#f0f000
+plants
+#1ffffe
+vertebrates, invertebrates
+#0000ff
+invertebrates, vertebrates
+#00f000
+fungi
+#0f0aaa
