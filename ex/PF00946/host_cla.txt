@@ -1,0 +1,524 @@
+NC_034535
+vertebrates
+NC_034448
+invertebrates
+NC_025350
+vertebrates, human
+NC_025391
+plants
+NC_031236
+invertebrates
+NC_002617
+vertebrates, human
+NC_025377
+vertebrates, human
+NC_009640
+vertebrates, human
+NC_005084
+vertebrates, human
+NC_006428
+vertebrates, human
+NC_025394
+invertebrates
+NC_031278
+invertebrates
+NC_031691
+invertebrates
+NC_031083
+invertebrates
+NC_007803
+vertebrates, human
+NC_031305
+invertebrates
+NC_030871
+fungi
+NC_012703
+vertebrates, invertebrates
+NC_028230
+invertebrates
+NC_017714
+invertebrates, vertebrates
+NC_000903
+vertebrates
+NC_028867
+environment
+NC_028260
+invertebrates
+NC_025363
+vertebrates, human
+NC_031283
+invertebrates
+NC_025360
+vertebrates, human
+NC_034546
+invertebrates
+NC_031216
+invertebrates
+NC_028244
+plants
+NC_031301
+invertebrates
+NC_001552
+vertebrates, human
+NC_034545
+vertebrates
+NC_006579
+vertebrates
+NC_025386
+vertebrates, human
+NC_025399
+plants
+NC_025371
+plants
+NC_002728
+vertebrates, human
+NC_028241
+invertebrates
+NC_003461
+vertebrates, human
+NC_028234
+invertebrates
+NC_025405
+invertebrates
+NC_028239
+vertebrates
+NC_020803
+vertebrates
+NC_028235
+vertebrates
+NC_025362
+invertebrates
+NC_025376
+plants
+NC_034968
+vertebrates, human
+NC_020810
+vertebrates, human
+NC_006432
+vertebrates, human
+NC_001921
+vertebrates, human
+NC_025348
+vertebrates, human
+NC_031232
+invertebrates
+NC_025403
+vertebrates, human
+NC_020809
+vertebrates, human
+NC_025410
+vertebrates, human
+NC_001906
+vertebrates, human
+NC_025402
+vertebrates, human
+NC_034530
+vertebrates
+NC_025349
+vertebrates, human
+NC_034508
+invertebrates
+NC_028236
+vertebrates
+NC_025406
+vertebrates
+NC_001796
+vertebrates, human
+NC_034533
+plants
+NC_031958
+invertebrates
+NC_031988
+vertebrates
+NC_025355
+vertebrates, human
+NC_028255
+invertebrates
+NC_021928
+vertebrates, human
+NC_031955
+vertebrates, human
+NC_031215
+invertebrates
+NC_025397
+vertebrates
+NC_005036
+vertebrates, human
+NC_031079
+invertebrates
+NC_001542
+vertebrates, human
+NC_025374
+vertebrates, human
+NC_031268
+invertebrates
+NC_031282
+invertebrates
+NC_009527
+vertebrates, human
+NC_002199
+vertebrates, human
+NC_007454
+vertebrates, human
+NC_006296
+vertebrates, human
+NC_016144
+vertebrates, human
+NC_031270
+invertebrates
+NC_025392
+vertebrates
+NC_025390
+vertebrates, human
+NC_034451
+vertebrates
+NC_014373
+vertebrates, human
+NC_031273
+invertebrates
+NC_025353
+vertebrates
+NC_025253
+vertebrates
+NC_024778
+vertebrates
+NC_020806
+invertebrates, vertebrates, human
+NC_020808
+vertebrates, human
+NC_020807
+vertebrates, human
+NC_007020
+vertebrates
+NC_024376
+invertebrates
+NC_003243
+vertebrates, human
+NC_009489
+vertebrates, human
+NC_034544
+invertebrates
+NC_025373
+vertebrates, human
+NC_031302
+invertebrates
+NC_025407
+vertebrates, human
+NC_022755
+vertebrates
+NC_011532
+invertebrates, plants
+NC_024473
+vertebrates
+NC_034550
+vertebrates
+NC_014372
+vertebrates, human
+NC_034551
+invertebrates, plants
+NC_031217
+invertebrates
+NC_001615
+invertebrates, plants
+NC_009609
+plants
+NC_002161
+plants
+NC_007642
+invertebrates, plants
+NC_031303
+invertebrates
+NC_011639
+invertebrates
+NC_001560
+vertebrates, human
+NC_016136
+invertebrates, plants
+NC_034536
+invertebrates
+NC_030231
+vertebrates, human
+NC_028231
+plants
+NC_025387
+vertebrates
+NC_025384
+invertebrates
+NC_031093
+invertebrates
+NC_025359
+invertebrates
+NC_002549
+vertebrates, human
+NC_025347
+vertebrates, human
+NC_025354
+invertebrates
+NC_005093
+vertebrates
+NC_028362
+plants
+NC_030687
+plants
+NC_001652
+vertebrates
+NC_025361
+vertebrates, human
+NC_013135
+invertebrates
+NC_024702
+invertebrates
+NC_028246
+vertebrates
+NC_001803
+vertebrates, human
+NC_028261
+invertebrates
+NC_025382
+invertebrates
+NC_034531
+invertebrates
+NC_019531
+vertebrates, human
+NC_020805
+vertebrates, human
+NC_005974
+invertebrates, plants
+NC_024781
+vertebrates, human
+NC_028232
+invertebrates
+NC_031304
+invertebrates
+NC_006383
+vertebrates, human
+NC_031088
+invertebrates
+NC_034537
+invertebrates
+NC_034449
+invertebrates
+NC_034542
+invertebrates
+NC_034443
+vertebrates, human
+NC_025358
+vertebrates
+NC_031690
+invertebrates
+NC_028233
+environment
+NC_001989
+vertebrates
+NC_007652
+vertebrates
+NC_025401
+vertebrates
+NC_025364
+invertebrates
+NC_034539
+invertebrates
+NC_025365
+vertebrates, human
+NC_031275
+invertebrates
+NC_003043
+vertebrates, human
+NC_002251
+invertebrates, plants
+NC_030451
+invertebrates
+NC_022581
+vertebrates
+NC_031214
+invertebrates
+NC_025345
+vertebrates
+NC_031276
+invertebrates
+NC_034240
+plants
+NC_002200
+vertebrates, human
+NC_017685
+invertebrates
+NC_026732
+fungi
+NC_025344
+vertebrates
+NC_001607
+plants
+NC_025383
+fungi
+NC_001781
+vertebrates, human
+NC_025356
+plants
+NC_025341
+vertebrates
+NC_001498
+vertebrates, human
+NC_002803
+vertebrates
+NC_025351
+vertebrates, human
+NC_025251
+vertebrates, human
+NC_025256
+vertebrates
+NC_003443
+vertebrates, human
+NC_006429
+vertebrates, human
+NC_025400
+invertebrates
+NC_017937
+vertebrates, human
+NC_028264
+invertebrates
+NC_007620
+vertebrates, human
+NC_004161
+vertebrates, human
+NC_013955
+invertebrates, vertebrates
+NC_025352
+vertebrates, human
+NC_031240
+invertebrates
+NC_028249
+vertebrates, human
+NC_034541
+invertebrates
+NC_004148
+vertebrates, human
+NC_005975
+invertebrates, plants
+NC_025389
+invertebrates, plants
+NC_005283
+vertebrates, human
+NC_028237
+plants
+NC_025404
+vertebrates, human
+NC_011558
+plants
+NC_031272
+invertebrates
+NC_030690
+plants
+NC_005339
+vertebrates, human
+NC_028106
+plants
+NC_028243
+invertebrates
+NC_009528
+vertebrates, human
+NC_034447
+invertebrates
+NC_025395
+vertebrates
+NC_004074
+vertebrates, human
+NC_030688
+plants
+NC_034538
+invertebrates
+NC_025408
+vertebrates, human
+NC_031259
+invertebrates
+NC_028259
+invertebrates
+NC_030885
+vertebrates
+NC_025385
+vertebrates, human
+NC_034548
+vertebrates
+NC_028263
+invertebrates
+NC_025264
+vertebrates, human
+NC_025378
+vertebrates, human
+NC_022580
+invertebrates
+NC_034454
+invertebrates
+NC_025396
+vertebrates
+NC_034529
+vertebrates
+NC_034450
+invertebrates
+NC_003746
+invertebrates, plants
+NC_030692
+plants
+NC_034534
+invertebrates
+NC_018381
+invertebrates, plants
+NC_020804
+invertebrates, vertebrates
+NC_028245
+vertebrates
+NC_031225
+invertebrates
+NC_031244
+invertebrates
+NC_028265
+invertebrates
+NC_031227
+invertebrates
+NC_025343
+vertebrates, human
+NC_006430
+vertebrates, human
+NC_012702
+vertebrates, invertebrates
+NC_025255
+vertebrates, human
+NC_025342
+vertebrates, invertebrates
+NC_031248
+invertebrates
+NC_025340
+invertebrates
+NC_008514
+vertebrates
+NC_006942
+invertebrates, plants
+NC_030689
+plants
+NC_018629
+vertebrates, human
+NC_034540
+vertebrates
+NC_028266
+invertebrates
+NC_030691
+plants
+NC_034549
+vertebrates
+NC_002526
+invertebrates, vertebrates
+NC_001608
+vertebrates, human
+NC_000855
+vertebrates
+NC_034543
+invertebrates
+NC_029642
+plants
+NC_024296
+plants
+NC_030701
+vertebrates
+NC_027892
+plants
+NC_036390
+invertebrates, plants
