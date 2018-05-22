@@ -1,182 +1,182 @@
-NC_005039
-Flaviviridae
-NC_034007
-Flaviviridae
-NC_033725
-Flaviviridae
-NC_008604
-Flaviviridae
-NC_009026
-Flaviviridae
-NC_001672
-Flaviviridae
-NC_005064
-Flaviviridae
-NC_033693
-Flaviviridae
-NC_035889
-Flaviviridae
-NC_009942
-Flaviviridae
-NC_003635
-Flaviviridae
-NC_012932
-Flaviviridae
-NC_001564
-Flaviviridae
-NC_023424
-Flaviviridae
-NC_008719
-Flaviviridae
-NC_000943
-Flaviviridae
-NC_035118
-Flaviviridae
-NC_029055
-Flaviviridae
-NC_028400
-unclassified__ssRNA__positive-strand__viruses
-NC_033697
-Flaviviridae
-NC_030289
-Flaviviridae
-NC_018705
-Flaviviridae
 NC_001475
-Flaviviridae
-NC_034151
-Flaviviridae
-NC_024805
-Flaviviridae
-NC_035187
-Flaviviridae
-NC_027819
-Flaviviridae
-NC_021069
-Flaviviridae
-NC_006551
-Flaviviridae
-NC_007580
-Flaviviridae
-NC_024017
-Flaviviridae
-NC_012735
-Flaviviridae
-NC_033721
-Flaviviridae
-NC_031327
-Flaviviridae
-NC_033723
-Flaviviridae
-NC_012534
-Flaviviridae
-NC_033724
-Flaviviridae
-NC_003687
-Flaviviridae
-NC_005062
-Flaviviridae
-NC_001563
-Flaviviridae
-NC_033698
-Flaviviridae
-NC_015843
-Flaviviridae
-NC_001437
-Flaviviridae
-NC_012533
-Flaviviridae
-NC_033726
-Flaviviridae
+vertebrates, invertebrates, human
 NC_001474
-Flaviviridae
-NC_016997
-Flaviviridae
-NC_024299
-Flaviviridae
-NC_003996
-Flaviviridae
-NC_033699
-Flaviviridae
-NC_034018
-Flaviviridae
-NC_030400
-Flaviviridae
-NC_009028
-Flaviviridae
-NC_003675
-Flaviviridae
-NC_027999
-Flaviviridae
-NC_026624
-Flaviviridae
-NC_008718
-Flaviviridae
-NC_027817
-Flaviviridae
-NC_026623
-Flaviviridae
-NC_001809
-Flaviviridae
-NC_027709
-Flaviviridae
-NC_012532
-Flaviviridae
-NC_017086
-Flaviviridae
-NC_034204
-Flaviviridae
+vertebrates, invertebrates, human
 NC_001477
-Flaviviridae
-NC_034017
-Flaviviridae
-NC_023439
-Flaviviridae
-NC_032088
-Flaviviridae
-NC_009029
-Flaviviridae
-NC_006947
-Flaviviridae
-NC_024806
-Flaviviridae
-NC_026620
-Flaviviridae
-NC_024113
-unclassified__ssRNA__positive-strand__viruses
-NC_033715
-Flaviviridae
-NC_003676
-Flaviviridae
-NC_004119
-Flaviviridae
-NC_004355
-Flaviviridae
-NC_002031
-Flaviviridae
-NC_003690
-Flaviviridae
-NC_030401
-Flaviviridae
-NC_029054
-Flaviviridae
-NC_012671
-Flaviviridae
-NC_034222
-Flaviviridae
-NC_028382
-unclassified__ssRNA__positive-strand__viruses
+vertebrates, invertebrates, human
 NC_002640
-Flaviviridae
+vertebrates, invertebrates, human
+NC_001672
+vertebrates, invertebrates, human
+NC_000943
+vertebrates, invertebrates, human
+NC_007580
+vertebrates, invertebrates, human
+NC_001437
+vertebrates, invertebrates, human
+NC_027709
+vertebrates, invertebrates, human
+NC_005062
+vertebrates, invertebrates, human
+NC_004355
+vertebrates, invertebrates, human
+NC_035889
+vertebrates, invertebrates, human
+NC_012532
+vertebrates, invertebrates, human
+NC_005039
+vertebrates, invertebrates, human
+NC_034007
+vertebrates, invertebrates, human
+NC_033725
+invertebrates
+NC_008604
+vertebrates, invertebrates, human
+NC_009026
+vertebrates, invertebrates, human
+NC_005064
+vertebrates, invertebrates, human
+NC_033693
+vertebrates, invertebrates, human
+NC_009942
+vertebrates, invertebrates, human
+NC_003635
+vertebrates, invertebrates, human
+NC_012932
+vertebrates, invertebrates, human
+NC_001564
+vertebrates, invertebrates, human
+NC_023424
+invertebrates
+NC_008719
+vertebrates, invertebrates, human
+NC_035118
+invertebrates
+NC_029055
+vertebrates, invertebrates, human
+NC_028400
+invertebrates
+NC_033697
+invertebrates
+NC_030289
+vertebrates, invertebrates, human
+NC_018705
+vertebrates, invertebrates, human
+NC_034151
+vertebrates, invertebrates, human
+NC_024805
+invertebrates
+NC_035187
+invertebrates
+NC_027819
+vertebrates, invertebrates, human
+NC_021069
+invertebrates
+NC_006551
+vertebrates, invertebrates, human
+NC_024017
+invertebrates
+NC_012735
+vertebrates, invertebrates, human
+NC_033721
+vertebrates, invertebrates, human
+NC_031327
+invertebrates
+NC_033723
+vertebrates, invertebrates, human
+NC_012534
+vertebrates, invertebrates, human
+NC_033724
+vertebrates, invertebrates, human
+NC_003687
+vertebrates, invertebrates, human
+NC_001563
+vertebrates, invertebrates, human
+NC_033698
+vertebrates, invertebrates, human
+NC_015843
+vertebrates, invertebrates, human
+NC_012533
+vertebrates, invertebrates, human
+NC_033726
+vertebrates, invertebrates, human
+NC_016997
+vertebrates, invertebrates, human
+NC_024299
+invertebrates
+NC_003996
+vertebrates, invertebrates, human
+NC_033699
+vertebrates, invertebrates, human
+NC_034018
+vertebrates, invertebrates, human
+NC_030400
+invertebrates
+NC_009028
+vertebrates, invertebrates, human
+NC_003675
+vertebrates, invertebrates, human
+NC_027999
+vertebrates, invertebrates, human
+NC_026624
+vertebrates
+NC_008718
+vertebrates, invertebrates, human
+NC_027817
+vertebrates, invertebrates, human
+NC_026623
+vertebrates
+NC_001809
+vertebrates, invertebrates, human
+NC_017086
+vertebrates, invertebrates, human
+NC_034204
+invertebrates
+NC_034017
+invertebrates
+NC_023439
+invertebrates
+NC_032088
+plants
+NC_009029
+plants
+NC_006947
+vertebrates, invertebrates, human
+NC_024806
+invertebrates
+NC_026620
+vertebrates
+NC_024113
+vertebrates, invertebrates
+NC_033715
+vertebrates, invertebrates, human
+NC_003676
+vertebrates, invertebrates, human
+NC_004119
+vertebrates, invertebrates, human
+NC_002031
+vertebrates, invertebrates, human
+NC_003690
+vertebrates, invertebrates, human
+NC_030401
+vertebrates, invertebrates, human
+NC_029054
+invertebrates
+NC_012671
+invertebrates
+NC_034222
+invertebrates
+NC_028382
+invertebrates
 NC_034242
-Flaviviridae
+vertebrates, invertebrates, human
 NC_033694
-Flaviviridae
+vertebrates, invertebrates, human
 NC_030290
-Flaviviridae
+invertebrates
 NC_028388
-unclassified__ssRNA__positive-strand__viruses
+invertebrates
 NC_028396
-unclassified__ssRNA__positive-strand__viruses
+invertebrates
 NC_028398
-unclassified__ssRNA__positive-strand__viruses
+invertebrates
