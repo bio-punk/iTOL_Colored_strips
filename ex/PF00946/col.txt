@@ -1,0 +1,22 @@
+Rhabdoviridae
+#ee0000
+Paramyxoviridae
+#00ee00
+Bornaviridae
+#0000ee
+unclassified ssRNA negative-strand viruses
+#00eebb
+Filoviridae
+#bb00ee
+Pneumoviridae
+#eebb00
+unassigned Mononegavirales
+#123456
+Nyamiviridae
+#654321
+bornavirus
+#ff1234
+Mymonaviridae
+#1234ff
+Sunviridae
+#12ff34
